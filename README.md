@@ -48,6 +48,8 @@ http://example.com/ "пример"
 
  ---
 
-# Вставка изображений (!)
+# Вставка изображений (!) (Ctrl+V)
 
 ![Пример Картинки](https://github.com/AlfredZang/StudyRepository/blob/ef162d8da49558c7839417427d9fa2ecf5ccaf2a/CaliCat.jpg)
+
+![image](https://user-images.githubusercontent.com/111059907/184173823-b4ab6039-5c81-494b-b38a-d9356b94fa18.png)

@@ -30,4 +30,4 @@
 
 http://example.com/ "пример"
 
-[пример] (http://example.com/ )
+[пример](http://example.com/ )

@@ -50,4 +50,4 @@ http://example.com/ "пример"
 
 # Вставка изображений (!)
 
-! [Пример Картинки](https://github.com/AlfredZang/StudyRepository/blob/ef162d8da49558c7839417427d9fa2ecf5ccaf2a/CaliCat.jpg)
+![Пример Картинки](https://github.com/AlfredZang/StudyRepository/blob/ef162d8da49558c7839417427d9fa2ecf5ccaf2a/CaliCat.jpg)

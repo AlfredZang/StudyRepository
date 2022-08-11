@@ -51,3 +51,4 @@ http://example.com/ "пример"
 # Вставка изображений (!) (Ctrl+V)
 
 ![image](https://user-images.githubusercontent.com/111059907/184183419-6f42c6e8-c9e2-419d-b727-ae93017c1e6a.png)
+
